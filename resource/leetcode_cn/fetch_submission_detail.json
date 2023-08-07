@@ -1,0 +1,34 @@
+{
+    "data": {
+        "submissionDetail": {
+            "code": "class Solution {\n    fun takeCharacters(s: String, k: Int): Int {\n        if (k == 0) {\n            return 0\n        }\n        val doubleS = s + s\n        var left = 0\n        var right = 0\n        val char2num = mutableMapOf<Char, Int>()\n        var result = Int.MAX_VALUE\n        while (right < doubleS.length && left < s.length) {\n            char2num[doubleS[right]] = char2num.getOrDefault(doubleS[right], 0) + 1\n            while (valid(char2num, k) && left < s.length) {\n                result = result.coerceAtMost(right - left + 1)\n                if (right >= s.length - 1) {\n                    char2num[doubleS[left]] = char2num[doubleS[left]]!! - 1\n                    left += 1\n                } else {\n                    break\n                }\n            }\n            right += 1\n        }\n        return if (result <= s.length) result else -1\n    }\n    fun valid(char2Num: MutableMap<Char, Int>, k: Int): Boolean {\n        return char2Num.getOrDefault('a', 0) >= k &&\n                char2Num.getOrDefault('b', 0) >= k &&\n                char2Num.getOrDefault('c', 0) >= k\n\n    }\n}",
+            "timestamp": 1671938648,
+            "statusDisplay": "Accepted",
+            "isMine": true,
+            "runtimeDisplay": "400 ms",
+            "memoryDisplay": "41.9 MB",
+            "memory": "42932000",
+            "lang": "kotlin",
+            "langVerboseName": "Kotlin",
+            "question": {
+                "questionId": "2599"
+            },
+            "user": {
+                "realName": "Compassionate TeslanDt",
+                "userAvatar": "https://assets.leetcode.cn/aliyun-lc-upload/users/user5933k/avatar_1588142275.png",
+                "userSlug": "alpsbird"
+            },
+            "runtimePercentile": 100.0,
+            "memoryPercentile": 100.0,
+            "submissionComment": null,
+            "outputDetail": {
+                "codeOutput": "",
+                "expectedOutput": "",
+                "input": "",
+                "compileError": "",
+                "runtimeError": "",
+                "lastTestcase": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,5 @@
+The project can sync the submissions on leetcode-cn to leetcode.
+
+To start, download the repository and install the requirements, fill in the cookie in the "config.ini" file, then run the code.
+
+Make a cup of coffee. Your submissions with appear on leetcode.

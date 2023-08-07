@@ -1,0 +1,108 @@
+{
+    "data": {
+        "submissionList": {
+            "lastKey": "ob9qpfvuh",
+            "hasNext": false,
+            "submissions": [
+                {
+                    "id": "390928147",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "AC",
+                    "statusDisplay": "Accepted",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "400 ms",
+                    "timestamp": "1671938648",
+                    "url": "/submissions/detail/390928147/",
+                    "isPending": "Not Pending",
+                    "memory": "41.9 MB",
+                    "submissionComment": null
+                },
+                {
+                    "id": "390927593",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "WA",
+                    "statusDisplay": "Wrong Answer",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "N/A",
+                    "timestamp": "1671938515",
+                    "url": "/submissions/detail/390927593/",
+                    "isPending": "Not Pending",
+                    "memory": "N/A",
+                    "submissionComment": null
+                },
+                {
+                    "id": "390926960",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "WA",
+                    "statusDisplay": "Wrong Answer",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "N/A",
+                    "timestamp": "1671938364",
+                    "url": "/submissions/detail/390926960/",
+                    "isPending": "Not Pending",
+                    "memory": "N/A",
+                    "submissionComment": null
+                },
+                {
+                    "id": "390926442",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "WA",
+                    "statusDisplay": "Wrong Answer",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "N/A",
+                    "timestamp": "1671938252",
+                    "url": "/submissions/detail/390926442/",
+                    "isPending": "Not Pending",
+                    "memory": "N/A",
+                    "submissionComment": null
+                },
+                {
+                    "id": "390924635",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "WA",
+                    "statusDisplay": "Wrong Answer",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "N/A",
+                    "timestamp": "1671937843",
+                    "url": "/submissions/detail/390924635/",
+                    "isPending": "Not Pending",
+                    "memory": "N/A",
+                    "submissionComment": null
+                },
+                {
+                    "id": "390924454",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "RE",
+                    "statusDisplay": "Runtime Error",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "N/A",
+                    "timestamp": "1671937794",
+                    "url": "/submissions/detail/390924454/",
+                    "isPending": "Not Pending",
+                    "memory": "N/A",
+                    "submissionComment": null
+                },
+                {
+                    "id": "390924234",
+                    "title": "\u6bcf\u79cd\u5b57\u7b26\u81f3\u5c11\u53d6 K \u4e2a",
+                    "status": "WA",
+                    "statusDisplay": "Wrong Answer",
+                    "lang": "kotlin",
+                    "langName": "Kotlin",
+                    "runtime": "N/A",
+                    "timestamp": "1671937740",
+                    "url": "/submissions/detail/390924234/",
+                    "isPending": "Not Pending",
+                    "memory": "N/A",
+                    "submissionComment": null
+                }
+            ]
+        }
+    }
+}

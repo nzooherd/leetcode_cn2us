@@ -1,0 +1,230 @@
+{
+    "data": {
+        "userProfileQuestions": {
+            "totalNum": 753,
+            "questions": [
+                {
+                    "translatedTitle": "\u5b89\u6392\u90ae\u7b52",
+                    "frontendId": "1478",
+                    "titleSlug": "allocate-mailboxes",
+                    "title": "Allocate Mailboxes",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1641437713,
+                    "numSubmitted": 2,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u5b8c\u6210\u6240\u6709\u4efb\u52a1\u7684\u6700\u5c11\u521d\u59cb\u80fd\u91cf",
+                    "frontendId": "1665",
+                    "titleSlug": "minimum-initial-energy-to-finish-tasks",
+                    "title": "Minimum Initial Energy to Finish Tasks",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1640943664,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6709\u6548\u7684\u5355\u8bcd\u65b9\u5757",
+                    "frontendId": "422",
+                    "titleSlug": "valid-word-square",
+                    "title": "Valid Word Square",
+                    "difficulty": "EASY",
+                    "lastSubmittedAt": 1638446444,
+                    "numSubmitted": 2,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6700\u4f4e\u52a0\u6cb9\u6b21\u6570",
+                    "frontendId": "871",
+                    "titleSlug": "minimum-number-of-refueling-stops",
+                    "title": "Minimum Number of Refueling Stops",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1638264687,
+                    "numSubmitted": 3,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u8bfe\u7a0b\u8868 III",
+                    "frontendId": "630",
+                    "titleSlug": "course-schedule-iii",
+                    "title": "Course Schedule III",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1638189794,
+                    "numSubmitted": 6,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6700\u591a K \u6b21\u4ea4\u6362\u76f8\u90bb\u6570\u4f4d\u540e\u5f97\u5230\u7684\u6700\u5c0f\u6574\u6570",
+                    "frontendId": "1505",
+                    "titleSlug": "minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits",
+                    "title": "Minimum Possible Integer After at Most K Adjacent Swaps On Digits",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636715753,
+                    "numSubmitted": 2,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6ed1\u52a8\u7a97\u53e3\u4e2d\u4f4d\u6570",
+                    "frontendId": "480",
+                    "titleSlug": "sliding-window-median",
+                    "title": "Sliding Window Median",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636629234,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u76f4\u65b9\u56fe\u7684\u6c34\u91cf",
+                    "frontendId": "\u9762\u8bd5\u9898 17.21",
+                    "titleSlug": "volume-of-histogram-lcci",
+                    "title": "Volume of Histogram LCCI",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636454864,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u5458\u5de5\u7a7a\u95f2\u65f6\u95f4",
+                    "frontendId": "759",
+                    "titleSlug": "employee-free-time",
+                    "title": "Employee Free Time",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636453337,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u597d\u5b50\u6570\u7ec4\u7684\u6700\u5927\u5206\u6570",
+                    "frontendId": "1793",
+                    "titleSlug": "maximum-score-of-a-good-subarray",
+                    "title": "Maximum Score of a Good Subarray",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636248290,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6700\u63a5\u8fd1\u7684\u4e8c\u53c9\u641c\u7d22\u6811\u503c II",
+                    "frontendId": "272",
+                    "titleSlug": "closest-binary-search-tree-value-ii",
+                    "title": "Closest Binary Search Tree Value II",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636185324,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6807\u7b7e\u9a8c\u8bc1\u5668",
+                    "frontendId": "591",
+                    "titleSlug": "tag-validator",
+                    "title": "Tag Validator",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636182995,
+                    "numSubmitted": 13,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u82b1\u62ec\u53f7\u5c55\u5f00",
+                    "frontendId": "1087",
+                    "titleSlug": "brace-expansion",
+                    "title": "Brace Expansion",
+                    "difficulty": "MEDIUM",
+                    "lastSubmittedAt": 1636178833,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u82b1\u62ec\u53f7\u5c55\u5f00 II",
+                    "frontendId": "1096",
+                    "titleSlug": "brace-expansion-ii",
+                    "title": "Brace Expansion II",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636178781,
+                    "numSubmitted": 3,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u57fa\u672c\u8ba1\u7b97\u5668",
+                    "frontendId": "224",
+                    "titleSlug": "basic-calculator",
+                    "title": "Basic Calculator",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636078328,
+                    "numSubmitted": 3,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u57fa\u672c\u8ba1\u7b97\u5668 III",
+                    "frontendId": "772",
+                    "titleSlug": "basic-calculator-iii",
+                    "title": "Basic Calculator III",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1636016391,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6700\u591a\u80fd\u5b8c\u6210\u6392\u5e8f\u7684\u5757 II",
+                    "frontendId": "768",
+                    "titleSlug": "max-chunks-to-make-sorted-ii",
+                    "title": "Max Chunks To Make Sorted II",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1635992340,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u6700\u591a\u80fd\u5b8c\u6210\u6392\u5e8f\u7684\u5757",
+                    "frontendId": "769",
+                    "titleSlug": "max-chunks-to-make-sorted",
+                    "title": "Max Chunks To Make Sorted",
+                    "difficulty": "MEDIUM",
+                    "lastSubmittedAt": 1635992244,
+                    "numSubmitted": 1,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u539f\u5b50\u7684\u6570\u91cf",
+                    "frontendId": "726",
+                    "titleSlug": "number-of-atoms",
+                    "title": "Number of Atoms",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1635905460,
+                    "numSubmitted": 5,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                },
+                {
+                    "translatedTitle": "\u89e3\u6790\u5e03\u5c14\u8868\u8fbe\u5f0f",
+                    "frontendId": "1106",
+                    "titleSlug": "parsing-a-boolean-expression",
+                    "title": "Parsing A Boolean Expression",
+                    "difficulty": "HARD",
+                    "lastSubmittedAt": 1635857340,
+                    "numSubmitted": 3,
+                    "lastSubmissionSrc": null,
+                    "__typename": "ProgressQuestionNode"
+                }
+            ],
+            "__typename": "ProgressQuestionListNode"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "data": {
+        "question": {
+            "questionId": "1977",
+            "questionFrontendId": "1851",
+            "title": "Minimum Interval to Include Each Query",
+            "titleSlug": "minimum-interval-to-include-each-query",
+            "isPaidOnly": false,
+            "difficulty": "Hard",
+            "likes": 142,
+            "dislikes": 0
+        }
+    }
+}
